@@ -1,7 +1,7 @@
 # CodeAlpha_Project_Music-Player
 ## Music Player
 
-Create beautiful UI to play music stored in the "Music Player" using the HTML5 audio API
+Create beautiful UI to play music stored in the "Music Player" using the HTML audio API
 
 ## Project Specifications
 
